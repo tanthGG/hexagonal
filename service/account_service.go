@@ -68,3 +68,5 @@ func (s accountService) GetAccount(customerID int) ([]AccountResponse, error) {
 	}
 	return responses, nil
 }
+
+// Practice
